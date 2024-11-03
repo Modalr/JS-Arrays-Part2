@@ -19,7 +19,7 @@ function isArrayLengthEven(numbers) {
 }
 console.log(isArrayLengthEven([1, 2, 3, 4]));
 
-return isArrayLengthOdd(numbers);
+
 
 console.log(isArrayLengthEven([1, 2, 3, 4]));
 
